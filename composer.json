@@ -3,14 +3,13 @@
   "description": "Laravel site promoter",
   "autoload": {
     "psr-4": {
-      "Atin\\LaravelSitePromoter\\": "src",
-      "Atin\\LaravelSitePromoter\\Database\\Seeders\\": "database/seeders"
+      "Atin\\LaravelSitePromoter\\": "src"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "SitePromoterServiceProvider"
+        "Atin\\LaravelBlog\\SitePromoterServiceProvider"
       ]
     }
   },
