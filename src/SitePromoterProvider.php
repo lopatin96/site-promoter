@@ -1,5 +1,6 @@
 <?php
 
+namespace Atin\LaravelSitePromoter;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -23,11 +24,11 @@ class SitePromoterProvider extends ServiceProvider
         ], 'laravel-site-promoter-lang');
 
         $this->publishes([
-            __DIR__.'/../resources/views' => \Atin\LaravelCashierShop\resource_path('views/vendor/laravel-site-promoter')
+            __DIR__.'/../resources/views' => \Atin\LaravelSitePromoter\resource_path('views/vendor/laravel-site-promoter')
         ], 'laravel-site-promoter-views');
 
         $this->publishes([
-            __DIR__.'/../config/config.php' => \Atin\LaravelCashierShop\config_path('laravel-config.php')
+            __DIR__.'/../config/config.php' => \Atin\LaravelSitePromoter\config_path('laravel-config.php')
         ], 'laravel-site-promoter-config');
     }
 }
