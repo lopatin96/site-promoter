@@ -28,7 +28,7 @@ class SitePromoterServiceProvider extends ServiceProvider
         ], 'laravel-site-promoter-views');
 
         $this->publishes([
-            __DIR__.'/../config/config.php' => config_path('laravel-config.php')
+            __DIR__.'/../config/config.php' => config_path('laravel-site-promoter.php')
         ], 'laravel-site-promoter-config');
     }
 }
