@@ -10,7 +10,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Atin\\LaravelSitePromoter\\SitePromoterProvider"
+        "SitePromoterServiceProvider"
       ]
     }
   },
