@@ -1,4 +1,4 @@
-<div class="mt-32">
+<div>
     <h3 class="mb-5 px-5 sm:px-0 sm:text-lg font-semibold">
         {{ __('laravel-site-promoter::common.title') }}
     </h3>
