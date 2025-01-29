@@ -10,6 +10,7 @@
                 :button="__('laravel-site-promoter::common.' . $website . '.button')"
                 href="{{ config('laravel-site-promoter.websites.' . $website . '.url') }}/{{ auth()->user()->locale ?? '' }}?ref=1"
                 color="{{ config('laravel-site-promoter.websites.' . $website . '.color') }}"
+                verticalAlignment="{{ count(config('laravel-site-promoter.websites')) >= 3 }}"
             />
         @endforeach
     </div>
