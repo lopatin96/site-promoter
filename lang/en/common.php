@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Your assistant in content creation: writing articles, generating unique texts, and much more.',
     'textify.button' => 'Go to website',
+
+    'diploma.title' => 'Help with writing diplomas, term papers, and other works: create from scratch or refine existing works.',
+    'diploma.button' => 'Go to the website',
+
+    'serp.title' => 'Access to search engine results via API: get data from Google and other systems.',
+    'serp.button' => 'Go to the website',
 ];

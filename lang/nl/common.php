@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Je assistent voor contentcreatie: artikelen schrijven, unieke teksten genereren en nog veel meer.',
     'textify.button' => 'Ga naar de website',
+
+    'diploma.title' => 'Hulp bij het schrijven van scripties, essays en andere werken: maak ze vanaf nul of werk bestaande werken bij.',
+    'diploma.button' => 'Ga naar de website',
+
+    'serp.title' => 'Toegang tot zoekresultaten via API: ontvang gegevens van Google en andere systemen.',
+    'serp.button' => 'Ga naar de website',
 ];

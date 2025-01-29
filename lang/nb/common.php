@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Din assistent i innholdsskaping: skriving av artikler, generering av unike tekster og mye mer.',
     'textify.button' => 'Gå til nettstedet',
+
+    'diploma.title' => 'Hjelp med å skrive diplom, kursoppgaver og andre arbeider: lag fra bunnen av eller forbedre eksisterende arbeider.',
+    'diploma.button' => 'Gå til nettstedet',
+
+    'serp.title' => 'Tilgang til søkeresultater via API: hent data fra Google og andre systemer.',
+    'serp.button' => 'Gå til nettstedet',
 ];

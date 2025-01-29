@@ -13,4 +13,10 @@ return [
 
     'textify.title' => '콘텐츠 생성의 도우미: 기사 작성, 고유 텍스트 생성 등 많은 기능.',
     'textify.button' => '웹사이트로 가기',
+
+    'diploma.title' => '졸업 논문, 과제 및 기타 작업 작성 지원: 처음부터 작성하거나 기존 작업을 수정하십시오.',
+    'diploma.button' => '웹사이트로 가기',
+
+    'serp.title' => '검색 엔진 결과에 API로 접근: Google 및 다른 시스템에서 데이터를 얻으세요.',
+    'serp.button' => '웹사이트로 가기',
 ];

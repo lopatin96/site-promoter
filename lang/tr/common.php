@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'İçerik oluşturma asistanınız: makale yazma, benzersiz metinler oluşturma ve daha fazlası.',
     'textify.button' => 'Siteye Git',
+
+    'diploma.title' => 'Tez, ödev ve diğer çalışmaların yazılmasında yardımcı olun: sıfırdan oluşturun veya mevcut çalışmaları geliştirerek tamamlayın.',
+    'diploma.button' => 'Siteye Git',
+
+    'serp.title' => 'Arama motoru sonuçlarına API üzerinden erişim: Google ve diğer sistemlerden veri alın.',
+    'serp.button' => 'Siteye Git',
 ];

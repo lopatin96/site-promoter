@@ -13,4 +13,10 @@ return [
 
     'textify.title' => '您的内容创作助手：写文章、生成独特的文本，等等。',
     'textify.button' => '访问网站',
+
+    'diploma.title' => '论文、课程作业及其他作业写作帮助：从头开始创建或完善现有作品。',
+    'diploma.button' => '访问网站',
+
+    'serp.title' => '通过API访问搜索引擎结果：获取Google及其他系统的数据。',
+    'serp.button' => '访问网站',
 ];

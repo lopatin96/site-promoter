@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Sisällöntuotannon apurisi: artikkelien kirjoittaminen, ainutlaatuisten tekstien luominen ja paljon muuta.',
     'textify.button' => 'Siirry sivustolle',
+
+    'diploma.title' => 'Apua diplomityön, kurssitöiden ja muiden töiden kirjoittamiseen: luo alusta alkaen tai muokkaa valmiita töitä.',
+    'diploma.button' => 'Siirry sivustolle',
+
+    'serp.title' => 'Pääsy hakukoneiden tuloksiin API:n kautta: hanki tietoja Googlelta ja muista järjestelmistä.',
+    'serp.button' => 'Siirry sivustolle',
 ];

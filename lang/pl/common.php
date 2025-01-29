@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Twój asystent w tworzeniu treści: pisanie artykułów, generowanie unikalnych tekstów i wiele więcej.',
     'textify.button' => 'Przejdź na stronę',
+
+    'diploma.title' => 'Pomoc w pisaniu pracy dyplomowej, kursowych i innych prac: twórz od podstaw lub dopracowuj gotowe prace.',
+    'diploma.button' => 'Przejdź na stronę',
+
+    'serp.title' => 'Dostęp do wyników wyszukiwarek przez API: otrzymuj dane z Google i innych systemów.',
+    'serp.button' => 'Przejdź na stronę',
 ];

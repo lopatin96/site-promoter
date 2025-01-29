@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Votre assistant pour la création de contenu : rédaction d’articles, génération de textes uniques et bien plus encore.',
     'textify.button' => 'Aller sur le site',
+
+    'diploma.title' => 'Aide à la rédaction de mémoires, de travaux de cours et d\'autres travaux : créez de zéro ou améliorez des travaux existants.',
+    'diploma.button' => 'Aller sur le site',
+
+    'serp.title' => 'Accès aux résultats des moteurs de recherche via API : obtenez des données depuis Google et d\'autres systèmes.',
+    'serp.button' => 'Aller sur le site',
 ];

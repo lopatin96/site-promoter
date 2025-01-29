@@ -3,7 +3,7 @@
         {{ __('laravel-site-promoter::common.title') }}
     </h3>
 
-    <div class="grid md:grid-cols-2 gap-4">
+    <div class="grid md:grid-cols-{{ count(config('laravel-site-promoter.websites')) }} gap-4">
         @foreach(config('laravel-site-promoter.websites') as $website => $data)
             <x-laravel-ui-components::banner
                 :title="__('laravel-site-promoter::common.' . $website . '.title')"

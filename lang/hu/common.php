@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Az ön segítője tartalomkészítésben: cikkírás, egyedi szövegek létrehozása és még sok más.',
     'textify.button' => 'Lépjen a weboldalra',
+
+    'diploma.title' => 'Segítség a diplomamunka, szakdolgozat és egyéb munkák írásában: készítse el nulláról vagy dolgozzon ki kész munkákat.',
+    'diploma.button' => 'Lépjen a weboldalra',
+
+    'serp.title' => 'Hozzáférés a keresőmotorok eredményeihez API-n keresztül: szerezzen adatokat a Google-tól és más rendszerektől.',
+    'serp.button' => 'Lépjen a weboldalra',
 ];

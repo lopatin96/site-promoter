@@ -13,4 +13,10 @@ return [
 
     'textify.title' => 'Váš pomocník při tvorbě obsahu: psaní článků, generování unikátních textů a mnohem více.',
     'textify.button' => 'Přejít na web',
+
+    'diploma.title' => 'Pomoc při psaní diplomových prací, seminárních a dalších prací: vytvářejte od nuly nebo upravujte hotové práce.',
+    'diploma.button' => 'Přejít na web',
+
+    'serp.title' => 'Přístup k výsledkům vyhledávačů přes API: získávejte data z Google a dalších systémů.',
+    'serp.button' => 'Přejít na web',
 ];
